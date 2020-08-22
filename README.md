@@ -10,4 +10,4 @@ We utilized different models and technologies to get an overall perspective on t
 - Timeseriesgenerator (RNN)
 - Tableau Time Series Analysis & Forecast : https://public.tableau.com/profile/utkarsh5750#!/vizhome/PerrinFreresChampagneSalesForecast/Forecast
 
-<img src="wrongname.gif" alt="Flowers in Chania">
+<img src="https://github.com/utkarshkant/Perrin-Freres-Champagne-Sales-Forecast/blob/master/Perrin%20Freres%20Champagne%20Sales%20Forecast%20-%20Utkarsh%20Kant%20_%20Tableau%20Public.gif">
