@@ -9,3 +9,5 @@ We utilized different models and technologies to get an overall perspective on t
 - FBPROPHET
 - Timeseriesgenerator (RNN)
 - Tableau Time Series Analysis & Forecast : https://public.tableau.com/profile/utkarsh5750#!/vizhome/PerrinFreresChampagneSalesForecast/Forecast
+
+<img src="wrongname.gif" alt="Flowers in Chania">
