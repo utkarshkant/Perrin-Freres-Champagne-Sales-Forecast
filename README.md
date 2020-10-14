@@ -6,7 +6,7 @@ Create a time-series model to forecast the sales values for Perrin Freres Champa
 ## Modelling
 We utilized different models and technologies to get an overall perspective on the analysis and forecast.
 - SARIMAX
-- FBPROPHET
+- [FBPROPHET](https://github.com/utkarshkant/Perrin-Freres-Champagne-Sales-Forecast/blob/master/Perrin%20Freres%20Monthly%20Champagne%20Sales%20Forecast_FBPROPHET.ipynb)
 - Timeseriesgenerator (RNN)
 - Tableau Time Series Analysis & Forecast : https://public.tableau.com/profile/utkarsh5750#!/vizhome/PerrinFreresChampagneSalesForecast/Forecast
 
